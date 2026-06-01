@@ -125,10 +125,3 @@ DOWNLOAD the zip file "Hotel Booking Website"
 ![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181705.png)
 
 <br>
-
-## CONTRIBUTORS
-
-<ul>
-  <li> <a href="https://github.com/iAmey001"> Amey Vinerkar </a> </li>
-  <li> <a href="https://github.com/NealMehtaa"> Neal Mehta </a> </li>
-</ul>
