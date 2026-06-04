@@ -1,6 +1,5 @@
 # HOTEL BOOKING WEBSITE
 <br>
-<details>
 ## ABSTRACT
 
 Hotel Booking Website is a web-based application developed to simplify the process of searching, exploring, and booking hotel accommodations online. The platform enables users to browse available hotels, view room details, compare options, and make reservations through an intuitive and user-friendly interface.
