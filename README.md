@@ -10,7 +10,7 @@ Built using PHP and MySQL, the platform provides a dynamic and responsive enviro
 
 <br>
 
-## SOFTWARE REQUIREMENTS
+## SOFTWARE USED TO DEVELOPE
 
 **Operating System**
 
