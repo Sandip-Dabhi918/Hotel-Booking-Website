@@ -12,10 +12,6 @@ Built using PHP and MySQL, the platform provides a dynamic and responsive enviro
 
 ## SOFTWARE USED TO DEVELOPE
 
-**Operating System**
-
-* Windows NT Family (Version 4.0 and Above)
-
 ### Frontend
 
 * HTML5
