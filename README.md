@@ -33,38 +33,3 @@ Built using PHP and MySQL, the platform provides a dynamic and responsive enviro
 * PHPMyAdmin
 * Visual Studio Code / Sublime Text
 * Modern Web Browser (Chrome, Firefox, Edge)
-
-
-## SCREENSHOTS
-
-<b> Home Page: </b>
-
-![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181018.png)
-
-![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181020.png)
-
-![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181205.png)
-
-![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181207.png)
-
-<b> User Registration: </b>
-
-![register](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181326.png)
-
-<b> User Login: </b>
-
-![login](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181337.png)
-
-<b> Rooms Page: </b>
-
-![rooms](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181426.png)
-
-<b> Admin Dashboard: </b>
-
-![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181544.png)
-
-![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181645.png)
-
-![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181705.png)
-
-<br>
